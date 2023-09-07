@@ -1,6 +1,6 @@
 # Willkommen bei Wandoria.net
 
-![Wandoria.net Logo](https://example.com/wandoria-logo.png)
+![Wandoria.net Logo](https://cdn.discordapp.com/attachments/1145754728693780520/1146419947782819990/Logov2_5_1.png)
 
 ## Über Wandoria.net
 
@@ -22,7 +22,7 @@ Wandoria.net ist ein aufregendes Minecraft Netzwerk, das von begeisterten Spiele
 
 Möchtest du Teil unserer Community werden? Hier ist, wie du loslegen kannst:
 
-1. **Server-IP:** Verbinde dich mit unserer Server-IP: `play.wandoria.net`.
+1. **Server-IP:** Verbinde dich mit unserer Server-IP: `wandoria.net`.
 
 2. **Website:** Besuche unsere [Website](https://www.wandoria.net) für weitere Informationen und Ressourcen.
 
