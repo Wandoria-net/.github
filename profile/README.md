@@ -8,8 +8,6 @@ Wandoria.net ist ein aufregendes Minecraft Netzwerk, das von begeisterten Spiele
 
 ## Features
 
-- **Vielfältige Spielmodi:** Bei Wandoria.net findest du eine breite Auswahl an Spielmodi, darunter Survival, Creative, Skyblock und vieles mehr. Es ist für jeden etwas dabei!
-
 - **Community:** Wir legen großen Wert auf unsere Community und schaffen eine freundliche und einladende Umgebung für Spieler jeden Alters.
 
 - **Regelmäßige Updates:** Unser engagiertes Entwicklungsteam arbeitet kontinuierlich daran, das Spielerlebnis zu verbessern und neue Funktionen hinzuzufügen.
@@ -34,7 +32,7 @@ Möchtest du einen Beitrag zur Weiterentwicklung von Wandoria.net leisten? Wir f
 
 - **Bug-Meldungen:** Wenn du Fehler entdeckst, melde sie bitte in unserem [Issue-Tracker](https://github.com/WandoriaNet/Issue-Tracker).
 
-- **Feature-Vorschläge:** Haben du Ideen für neue Features oder Verbesserungen? Teile sie in unserem [Issue-Tracker](https://github.com/WandoriaNet/Issue-Tracker).
+- **Feature-Vorschläge:** Hast du Ideen für neue Features oder Verbesserungen? Teile sie in unserem [Issue-Tracker](https://github.com/WandoriaNet/Issue-Tracker).
 
 - **Code-Beitrag:** Wenn du ein Entwickler bist, kannst du aktiv zur Entwicklung von Wandoria.net beitragen, indem du an unserem [GitHub-Repository](https://github.com/WandoriaNet/Wandoria) arbeitest.
 
